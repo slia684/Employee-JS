@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import './App.css';
 import Crud from './crud';
 
@@ -9,5 +8,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

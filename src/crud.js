@@ -24,7 +24,7 @@ const CRUD = ()=>{
     const [show, setShow] = useState(false);
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
-    const baseUrl = 'http://localhost:5000/api/Employee/'
+    const baseUrl = 'http://54.153.169.207:5001/api/employee/'
 
     // const empdata = []
     
